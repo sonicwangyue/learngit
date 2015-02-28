@@ -3,4 +3,4 @@ Git is free software.
 sonic
 My stupid boss still prefers SVN.
 
-create a new branch dev
+Creating a new branch is quick & simple
